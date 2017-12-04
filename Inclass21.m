@@ -1,4 +1,9 @@
 %In class 21
+%GB Comments
+1 40 Curves are incorrect (they should be sigmoidal and plateau at some value depending on parameters chosen) and no discussion of results
+2 40 Curves are incorrect and no discussion of results
+Overall 40
+
 
 % 1. Consider the system we discussed in class for a gene which is produced
 % and degraded: dx/dt = k - d*x. Now consider that this gene turns on a
